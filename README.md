@@ -1,4 +1,4 @@
-#Projeto MongoDB com Spring Boot
+# Projeto MongoDB com Spring Boot
 -Compreender as principais diferenças entre paradigma orientado a documentos e relacional
 - Implementar operações de CRUD
 - Refletir sobre decisões de design para um banco de dados orientado a documentos
@@ -8,7 +8,7 @@
 - Realizar consultas com Spring Data e MongoRepository
 
 
-#Tecnologias e ferramentas utilizadas
+# Tecnologias e ferramentas utilizadas
 
 - Java 17
 - Spring Boot
