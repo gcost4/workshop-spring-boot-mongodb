@@ -7,6 +7,9 @@ Compreender as principais diferenças entre paradigma orientado a documentos e r
 - Referências
 - Realizar consultas com Spring Data e MongoRepository
 
+![image](https://github.com/gcost4/workshop-spring-boot-mongodb/assets/116121823/ffe3e871-cc65-4ec3-9e8c-ab703c6e20ac)
+
+
 
 # Tecnologias e ferramentas utilizadas
 
